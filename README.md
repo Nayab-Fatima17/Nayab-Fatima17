@@ -6,37 +6,22 @@
 <p align="center">✨ Where curiosity meets creativity and continuous learning ✨</p>
 
 ---
+## 🚀 GitHub Stats:
 
-<h2 align="center">🚀 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-1024-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-256-ff00ff?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Repos-12-ff4dd2?style=for-the-badge&logo=github" />
-</p>
+### ✨ Nayab's GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61F6&icon_color=00F0FF&text_color=FFFFFF)
 
 ---
 
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-  <div style="display: inline-block; border-radius: 50%; width: 150px; height: 150px; 
-              background: conic-gradient(#ff00ff 0% 75%, #222 75% 100%); 
-              color: white; font-weight: bold; font-size: 24px; 
-              display: flex; align-items: center; justify-content: center;">
-    75 Days 🔥
-  </div>
-</p>
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF)](https://git.io/streak-stats)
 
 ---
 
-<h2 align="center">💜 Most Used Languages</h2>
+### 💻 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61F6&text_color=FFFFFF&hide_border=true)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-45%25-ff00ff?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-30%25-ff4dd2?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/JavaScript-25%25-ff69b4?style=for-the-badge&logo=javascript" />
-</p>
+
 
 ## 🪄 Contribution Graph
 
