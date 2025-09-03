@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:8000ff&height=200&section=header&text=Nayab's%20GitHub%20World&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 <!-- 🦄 Introduction -->
-<h2 align="center">🌸 Welcome to Nayab's Creative GitHub Profile 🌸</h2>
-<p align="center">✨ A blend of code, colors, and creativity ✨</p>
+<h2 align="center">🌸 Welcome to Nayab's GitHub Profile 🌸</h2>
+<p align="center">✨ Where curiosity meets creativity and continuous learning ✨</p>
 
 ---
 
