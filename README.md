@@ -3,3 +3,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nayab-Fatima17&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&langs_count=10&layout=compact&theme=dark&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Nayab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayabFatima&show_icons=true&theme=radical&hide_border=true&border_radius=20)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NayabFatima&theme=radical&hide_border=true&border_radius=20)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayabFatima&layout=compact&theme=radical&hide_border=true&border_radius=20)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NayabFatima&show_icons=true&theme=tokyonight&border_radius=15" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayabFatima&layout=compact&theme=tokyonight&border_radius=15" height="180">
+</p>
