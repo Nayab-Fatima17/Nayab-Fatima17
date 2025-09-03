@@ -6,30 +6,28 @@
 <p align="center">✨ Where curiosity meets creativity and continuous learning ✨</p>
 
 ---
-## 🚀 GitHub Stats:
-
-### ✨ Nayab's GitHub Stats  
+## 🚀 GitHub Stats:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61F6&icon_color=00F0FF&text_color=FFFFFF)
 
 ---
 
-### 🔥 Streak Stats  
+### 🔥 Streak Stats: 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF)](https://git.io/streak-stats)
 
 ---
 
-### 💻 Most Used Languages  
+### 💻 Most Used Languages:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61F6&text_color=FFFFFF&hide_border=true)
 
 
 
-## 🪄 Contribution Graph
+## 🪄 Contribution Graph:
 
 ![Nayab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayabFatima&bg_color=0d1117&color=ff00ff&line=ff69b4&point=ffffff&area=true&hide_border=true)
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
