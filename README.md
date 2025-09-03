@@ -24,7 +24,7 @@
 
 ---
 
-## 🪄 Fancy Contribution Graph
+## 🪄 Contribution Graph
 
 ![Nayab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayabFatima&bg_color=0d1117&color=ff00ff&line=ff69b4&point=ffffff&area=true&hide_border=true)
 
@@ -41,12 +41,7 @@
 
 ---
 
-## 💫 Extra Magic
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NayabFatima&theme=dracula&no-bg=true&no-frame=true&column=6&title=Commit,Stars,Followers,Repositories,PullRequest,Issues" />
-</p>
 
----
 
 <!-- 🌈 Footer Banner -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8000ff,100:ff00ff&height=150&section=footer)
