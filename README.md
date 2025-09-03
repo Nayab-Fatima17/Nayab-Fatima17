@@ -18,11 +18,11 @@
 
 ## 🔥 Contribution Streaks
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayabFatima&theme=dracula&fire=ff69b4&ring=ff00ff&currStreakLabel=ff69b4&background=0d1117&border_radius=20" />
-</p>
+🔥 Contribution Streaks  
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayabfatima5&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF1493&currStreakLabel=FF69B4" alt="🔥 Nayab's Streak" />
+</p>
 
 ## 🪄 Contribution Graph
 
