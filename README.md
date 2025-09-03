@@ -27,19 +27,6 @@
 
 ---
 
-## 🛠️ Languages & Tools:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-8000ff?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-ff00ff?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-
-
 <!-- 🌈 Footer Banner -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8000ff,100:ff00ff&height=150&section=footer)
 
