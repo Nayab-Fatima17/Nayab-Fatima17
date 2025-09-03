@@ -1,5 +1,5 @@
 <!-- 🌈 Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:8000ff&height=200&section=header&text=Nayab's%20GitHub%20World&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=90&section=header&text=⚡%20Nayab's%20Developer%20Space%20⚡&fontSize=28&fontColor=00F0FF&animation=fadeIn&fontAlignY=50)
 
 <!-- 🦄 Introduction -->
 <h2 align="center">🌸 Welcome to Nayab's GitHub Profile 🌸</h2>
