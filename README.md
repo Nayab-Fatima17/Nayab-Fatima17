@@ -13,7 +13,13 @@
 ---
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Nayab-Fatima17&theme=dark&hide_border=true&background=0D1117&ring=00FFFF,FF00FF,8000FF&fire=FF00FF&currStreakNum=00FFFF&currStreakLabel=8000FF&sideNums=FF00FF&dates=00FFFF)
+# 🔥 GitHub Streak Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/stats-card.svg" width="650" />
+
+</div>
 
 ---
 
