@@ -11,8 +11,10 @@
 
 ---
 
-### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF)](https://git.io/streak-stats)
+### 🔥 Streak Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayab-Fatima17&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00BCD4&background=0D1117&ring=9932CC&fire=FF4500)](https://git.io/streak-stats)
+
 
 ---
 
