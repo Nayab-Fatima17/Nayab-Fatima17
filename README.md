@@ -18,7 +18,7 @@
 
 ---
 
-## ☄️ Contribution Graph:
+## 🪐 Contribution Graph:
 ![Nayab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayabFatima&bg_color=0d1117&color=00FFFF&line=FF69B4&point=FFFFFF&area=true&hide_border=true)
 
 ---
@@ -29,4 +29,4 @@
 ---
 
 <!-- 🌈 Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=80&section=footer&text=%20Thank%20you%20for%20visiting%20🌌&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Footer" style="width:100%; height:auto;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=80&section=footer&text=%20Thank%20you%20for%20visiting%20&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Footer" style="width:100%; height:auto;" />
