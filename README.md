@@ -16,14 +16,14 @@
 
 ---
 
-### 💻 Most Used Languages:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61F6&text_color=FFFFFF&hide_border=true)
-
-
-
 ## 🪄 Contribution Graph:
 
 ![Nayab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayabFatima&bg_color=0d1117&color=ff00ff&line=ff69b4&point=ffffff&area=true&hide_border=true)
+
+
+
+### 💻 Most Used Languages:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61F6&text_color=FFFFFF&hide_border=true)
 
 ---
 
