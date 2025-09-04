@@ -11,10 +11,8 @@
 
 ---
 
-### 🔥 Streak Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayab-Fatima17&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=9932CC&fire=FF4500&currstreak=00BCD4&dates=586C72&sideNums=E04058&sideLabels=E04058)](https://git.io/streak-stats)
-
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF)](https://git.io/streak-stats)
 
 ---
 
@@ -22,6 +20,7 @@
 
 ![Nayab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayabFatima&bg_color=0d1117&color=00FFFF&line=FF69B4&point=FFFFFF&area=true&hide_border=true)
 
+---
 
 ### 💻 Most Used Languages:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61F6&text_color=FFFFFF&hide_border=true)
