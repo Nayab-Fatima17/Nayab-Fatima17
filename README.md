@@ -11,7 +11,10 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Nayab-Fatima17&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00BCD4&background=0D1117&ring=9932CC&fire=FF4500)](https://git.io/streak-stats)
+### 🔥 Streak Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayab-Fatima17&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=9932CC&fire=FF4500&currstreak=00BCD4&dates=586C72&sideNums=E04058&sideLabels=E04058)](https://git.io/streak-stats)
+
 
 ---
 
