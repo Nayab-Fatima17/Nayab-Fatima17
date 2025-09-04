@@ -12,14 +12,8 @@
 
 ---
 
-### 🔥 Streak Stats:
-# 🔥 GitHub Streak Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/stats-card.svg" width="650" />
-
-</div>
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF)](https://git.io/streak-stats)
 
 ---
 
