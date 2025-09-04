@@ -1,8 +1,6 @@
 <!-- 🌈 Header Banner -->
 
-<p align="center">
-  <img src="assets/nayabs-techverse-galaxy.png" alt="Nayab's Techverse" width="100%" style="border-radius:12px;" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=header&text=%20Nayab's%20Techverse%20&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40)
 <!-- 🦄 Introduction -->
 <h2 align="center">🌸 Welcome to my GitHub Profile 🌸</h2>
 <p align="center">✨ Where curiosity meets creativity and continuous learning ✨</p>
