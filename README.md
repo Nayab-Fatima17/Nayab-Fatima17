@@ -6,16 +6,18 @@
 <p align="center">✨ Where curiosity meets creativity and continuous learning ✨</p>
 
 ---
+
 ## 🚀 GitHub Stats:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61F6&icon_color=00F0FF&text_color=FFFFFF)
 
 ---
-### 🔥Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nayab-Fatima17&theme=dark&hide_border=true)
 
+### 🔥 Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Nayab-Fatima17&theme=dark&hide_border=true&background=0D1117&ring=00FFFF,FF00FF,8000FF&fire=FF00FF&currStreakNum=00FFFF&currStreakLabel=8000FF&sideNums=FF00FF&dates=00FFFF)
+
+---
 
 ## ☄️ Contribution Graph:
-
 ![Nayab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayabFatima&bg_color=0d1117&color=00FFFF&line=FF69B4&point=FFFFFF&area=true&hide_border=true)
 
 ---
