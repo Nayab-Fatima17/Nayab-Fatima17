@@ -23,5 +23,7 @@
 
 ---
 
+https://github-readme-activity-graph.vercel.app/graph?username=Nayab-Fatima17
+
 <!-- 🌈 Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=80&section=footer" alt="Footer" style="width:100%; height:auto;" />
