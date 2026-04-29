@@ -1,7 +1,6 @@
 <!-- 🌈 Header Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="100%"/>
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=header&text=%20Nayab's%20Techverse%20&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Nayab's Techverse" style="width:100%; height:auto;" />
 
 ---
 
