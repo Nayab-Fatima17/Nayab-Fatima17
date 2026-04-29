@@ -1,15 +1,12 @@
 <!-- 🌈 Header Banner -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=header&text=%20Nayab's%20Techverse%20&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Nayab's Techverse" style="width:100%; height:auto;" />
 
 ---
-
 <!-- intro -->
 <h2 align="center">🌸 Welcome to my GitHub Profile 🌸</h2>
 <p align="center"><I>✨ Where curiosity meets creativity and continuous learning ✨</I></p>
 
 ---
-https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Explorer;Problem+Solver
 
 ## 🚀 GitHub Stats:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61F6&icon_color=00F0FF&text_color=FFFFFF)
