@@ -1,5 +1,5 @@
 <!-- 🌈 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=header&text=%20Nayab's%20Techverse%20&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Nayab's Techverse" style="width:100%; height:auto;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=header&text=%20Nayab's%20Techverse%20&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&v=2" alt="Nayab's Techverse" style="width:100%; height:auto;" />
 
 ---
 <!-- intro -->
@@ -9,21 +9,21 @@
 ---
 
 ## 🚀 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61F6&icon_color=00F0FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61F6&icon_color=00F0FF&text_color=FFFFFF&v=2)
 
 ---
 
 ### 🔥 Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF&v=2)](https://git.io/streak-stats)
 
 ---
 
 ### 💻 Most Used Languages:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61F6&text_color=FFFFFF&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Fatima17&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61F6&text_color=FFFFFF&hide_border=true&v=2)
 
 ---
 
-https://github-readme-activity-graph.vercel.app/graph?username=Nayab-Fatima17
+![](https://github-readme-activity-graph.vercel.app/graph?username=Nayab-Fatima17&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF61F6&point=FFFFFF&v=2)
 
 <!-- 🌈 Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=80&section=footer" alt="Footer" style="width:100%; height:auto;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=80&section=footer&v=2" alt="Footer" style="width:100%; height:auto;" />
