@@ -8,8 +8,13 @@
 
 ---
 
-### 🔥 Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=radical&hide_border=true&background=0D1117&ring=FF61F6&fire=FFB800&currStreakLabel=00F0FF&v=2)](https://git.io/streak-stats)
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Nayab-Fatima17&theme=highcontrast&hide_border=true&border_radius=30&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=00F7FF&sideLabels=FFFFFF&dates=8B949E" />
+
+</div>
 
 ---
 
