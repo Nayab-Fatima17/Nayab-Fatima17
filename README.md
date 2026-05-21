@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</p>
+
 ### 🔥 Contribution Streak
 
 <div align="center">
