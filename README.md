@@ -2,15 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=header&text=%20Nayab's%20Techverse%20&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&v=2" alt="Nayab's Techverse" style="width:100%; height:auto;" />
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1600&color=BB86FC&center=true&vCenter=true&width=1200&lines=Moving+through+life+with+equal+parts+curiosity+and+uncertainty+✨;Learning%2C+creating+and+growing+through+every+phase+of+the+journey+🌼;Trying+to+leave+every+idea+a+little+better+than+I+found+it+🔍;A+work+in+progress+with+determination+🎓;Keeping+pace+with+the+world+while+finding+my+own+direction+🍃" />
+</p>
 <!-- intro -->
 <h2 align="center">🌸 Welcome to my GitHub Profile 🌸</h2>
 <p align="center"><I>✨ Where curiosity meets creativity and continuous learning ✨</I></p>
 
 ---
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nayab-Fatima17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</p>
 
 ### 🔥 Contribution Streak
 
